@@ -246,6 +246,7 @@
     "platelets",
     "sagiri",
     "chino",
+    "live2d-widget-model-miku/assets",
     [
       "ShizukuTalk/shizuku-48",
       "ShizukuTalk/shizuku-pajama"
@@ -271,7 +272,11 @@
       "HyperdimensionNeptunia/nepgearswim",
       "HyperdimensionNeptunia/histoire",
       "HyperdimensionNeptunia/histoirenohover"
-    ]
+    ],
+    [
+      "genshin/BCSZ1.1",
+      "genshin/SLLR3"
+    ],
   ],
   "messages": [
     "来自 Potion Maker 的 Pio 酱 ~",
@@ -284,7 +289,9 @@
     "啊喏呐，啊喏呐~",
     "埃罗芒阿三赛？我...我才不认识这人呢！",
     "欢迎光临Rabbit house ~",
+    "初音，未来！",
     "Shizuku Talk ！这里是 Shizuku ~",
-    "Nep! Nep! 超次元游戏：海王星 系列"
+    "Nep! Nep! 超次元游戏：海王星 系列",
+    "原神启动！！！"
   ]
 }
